@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>dm-home Alexa Privacy Notice</title>
+</head>
+<body>
+  <main>
+    <h1>dm-home Alexa Privacy Notice</h1>
+
+    <p>
+      dm-home Alexa is a private smart-home integration used by its owner
+      to control devices and access home status through Amazon Alexa.
+    </p>
+
+    <h2>Information used</h2>
+    <ul>
+      <li>Amazon account identifier provided through Login with Amazon</li>
+      <li>Alexa skill requests needed to perform authorized smart-home actions</li>
+      <li>Device status required to fulfill those requests</li>
+    </ul>
+
+    <p>
+      dm-home Alexa does not sell personal information or use it for advertising.
+    </p>
+
+    <p>
+      Authentication credentials, access tokens, and smart-home device credentials
+      are not intentionally exposed publicly.
+    </p>
+
+    <p>
+      Data is used only to authenticate the authorized owner, route permitted
+      smart-home commands, and provide requested device status.
+    </p>
+
+    <p>
+      For questions or deletion requests, contact the application owner.
+    </p>
+  </main>
+</body>
+</html>
